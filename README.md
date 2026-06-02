@@ -28,5 +28,5 @@ This Power BI dashboard was developed as part of the CodeAlpha Internship Progra
 In Progress 🚀
 
 ## Author
-Praveen
+Vineela
 Power BI Intern @ CodeAlpha
